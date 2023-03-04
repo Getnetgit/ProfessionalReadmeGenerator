@@ -3,7 +3,7 @@ const inquirer=require('inquirer')
 const generateMarkdown=require("./utils/generateMarkdown");
 const fs=require('fs')
 // TODO: Create an array of questions for user input
-const questions = ['What is your project title?', 'Enter discription of your poroject','Enter installation for your app.','Enter usage information','Enter contribution guidelines','Enter test instructions','Select licence','What is your gitHub username?','What is your email address?'];
+const questions = ['What is your project title?', 'Enter discription of your poroject','Enter installation instruction for your app.','Enter usage information','Enter contribution guidelines','Enter test instructions','Select licence','What is your gitHub username?','What is your email address?'];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -72,7 +72,7 @@ function init() {
      console.log(responce)
      //generateMarkdown(responce)
      writeToFile(responce.title, generateMarkdown(responce))
-     console.log(generateMarkdown(responce))
+     //console.log(generateMarkdown(responce))
     })
 }
 
