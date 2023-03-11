@@ -13,7 +13,7 @@ The goal of this project is to build a command line application which will ask a
 
 
 
-[Demo vedio](https://drive.google.com/file/d/1VEuqzGUrpbenezNls40zoQ1XJSLwpOU2/view)
+[Walkthrough video](https://drive.google.com/file/d/1VEuqzGUrpbenezNls40zoQ1XJSLwpOU2/view)
 
 
 
