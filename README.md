@@ -8,10 +8,12 @@ The goal of this project is to build a command line application which will ask a
 
  ## Usage
 
- Application will be started by using the command node index.js then questions will be asked for project title, description, installation instructions, usage information, contribution guidelines, test instruction, license , gitHub username and email. One all questions are answered a readme file will be generated in the project directory using project title as a file name. See simulation video below.
+ Application will be started by using the command node index.js then questions will be asked for project title, description, installation instructions, usage information, contribution guidelines, test instruction, license , gitHub username and email. One all questions are answered a readme file will be generated in the project directory using project title as a file name. See vedio walk through below. 
+ Generated readme will have title and licence badge on the top followed by sections 
 
 
-![Demo Vedio](./Video/ReadmeGeneratorDemo.gif)
+
+[Demo vedio](https://drive.google.com/file/d/1VEuqzGUrpbenezNls40zoQ1XJSLwpOU2/view)
 
 
 

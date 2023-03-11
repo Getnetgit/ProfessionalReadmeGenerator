@@ -1,20 +1,20 @@
-# Readme Generator
+# Sample Readme
 
 [![License: BSD_3_Clause](https://img.shields.io/badge/License-BSD_3_Clause-blue.svg)](https://opensource.org/licenses/BSD_3_Clause)
 
  ## Description
 
-The goal of this project is to build a command line application which will ask a series of questions and generate a quality readme. It is built based on a user story provided by UW for challenge 9. The full content of the user story is in issue #1 of this repo. 
+Sample readme description.........
 
  ## Installation
-NA
+Sample readme instalation instruction.
 
  ## Usage
-Application will be started by using the command node index.js then questions will be asked for project title, description, installation instructions, usage information, contribution guidelines, test instruction, license, GitHub username and email. One all questions are answered a readme file will be generated in the project directory using project title as a file name.   
+Sample readme usage information
 
 ## Contributing 
 
-NA 
+sample readme contribution guidelines . 
 
  ## Questions 
 
